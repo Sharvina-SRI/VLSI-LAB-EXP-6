@@ -12,10 +12,10 @@ To design and simulate the CMOS inverter and observe the DC and transient respon
 
 2.Cadence tool
 
-'''
+```
 DEVELOPED BY: SHARVINA SRI 
 REGISTER NUMBER: 212222060238
-'''
+```
 
 ## PROCEDURE:
 
@@ -167,6 +167,7 @@ To complete, move the cursor and click ok.
 2.When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
 
 ![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-6/assets/162664906/fbfd332c-7fb3-4d20-8d1d-95e53dd76810)
+
 ![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-6/assets/162664906/0beed9f8-551e-4297-a209-71281f05851f)
 
 ### CMOS NAND GATE
