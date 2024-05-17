@@ -187,4 +187,4 @@ To complete, move the cursor and click ok.
 ![image](https://github.com/Sharvina-SRI/VLSI-LAB-EXP-6/assets/162664906/87da25d8-c935-406c-a5a0-931f76370dd3)
 
 ## RESULT:
-Thus the design and simulation of the CMOS inverter and observe the DC and transient responses using cadens is done.
+Thus the design and simulation of the CMOS inverter and observe the DC and transient responses using cadence is done.
